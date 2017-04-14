@@ -27,5 +27,3 @@ server.listen(3200, function() {
 
 console.log('server started at 3200');
 
-
-server.listen(8080);
